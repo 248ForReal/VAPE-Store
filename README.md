@@ -1,2 +1,0 @@
-# VAPE-Stote
-#usahaaa lagu
