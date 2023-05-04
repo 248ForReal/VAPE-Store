@@ -1,5 +1,5 @@
 <?php
 
-echo "hello world dah di edit";
+echo "danda kontol";
 
 ?>
