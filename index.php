@@ -1,5 +1,5 @@
 <?php
 
-echo "danda belajar";
+echo "danda tutor";
 
 ?>
