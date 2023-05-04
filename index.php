@@ -1,5 +1,5 @@
 <?php
 
-echo "danda kontol";
+echo "danda belajar";
 
 ?>
